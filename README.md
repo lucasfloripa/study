@@ -1,4 +1,4 @@
-# NUMA Backend Test
+# NUMA Test
 
   Hi! First of all thank you for the opportunity given to me to take this test. This is a oportunity very important to me and i'll give my best to make it happen. Thank you very much!
   I took all of last Sunday(05/03) to perform the test, and right now Tuesday(07/05) I write this readme.
